@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-[![Video](https://i9.ytimg.com/vi_webp/CyfgTNH5K6Q/sddefault.webp?v=639971e3&sqp=COzh5ZwG&rs=AOn4CLAjiKZPMLve8pBFr1PguhFwL6uFSw)](https://youtu.be/CyfgTNH5K6Q)
+[![Video](https://img.youtube.com/vi/CyfgTNH5K6Q/0.jpg)](https://youtu.be/watch?v=CyfgTNH5K6Q)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
