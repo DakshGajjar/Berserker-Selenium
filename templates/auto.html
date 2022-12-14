@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block style %}
+<style>
+    #autobtn{
+        border-bottom: 2px solid #dedede;
+    }
+</style>
+  
+{% endblock style %}
+
+{% block main %}
+<div id="ad">
+    <h4>In auto mode user input is not required and random post will be chosen for video generation.</h4>
+    <a href="/ranproc"><button id="auto" onclick="cls()">Generate</button></a>
+</div>
+{% endblock main %}

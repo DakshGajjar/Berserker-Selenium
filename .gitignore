@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.vscode/
+static/chromedriver.exe
+query.txt
+codesnips.txt
+app.yaml
