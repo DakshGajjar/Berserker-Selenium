@@ -15,9 +15,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-[![Video](https://img.youtube.com/vi/CyfgTNH5K6Q/0.jpg)](https://youtu.be/watch?v=CyfgTNH5K6Q)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+https://user-images.githubusercontent.com/91525283/207527877-c493feec-28b8-4be6-a1f0-43e6255ad8c1.mp4
