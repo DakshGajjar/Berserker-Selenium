@@ -10,6 +10,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 
+Chrome browser installation is necessary for the application to run correctly.
+
 ## Usage
 ```bash
 python main.py
