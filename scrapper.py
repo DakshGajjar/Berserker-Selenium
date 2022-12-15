@@ -61,7 +61,7 @@ def make_driver():
     chrome_options.add_argument("--headless")
     #chrome_options.binary_location="chrome.exe"
     chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    os.system('bash func.sh')
+    #os.system('bash func.sh')
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()),options=chrome_options)
     #driver = webdriver.Chrome('static/chromedriver.exe',options=chrome_options)
     log("Starting the web driver")
